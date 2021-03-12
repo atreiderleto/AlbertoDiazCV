@@ -39,3 +39,13 @@ a > h2 {
 .university {
     font-weight: 500;
 }
+
+
+/* responsive */
+
+@media (max-width: 414px) {
+
+    body {
+        padding: 1rem;
+    }
+}
