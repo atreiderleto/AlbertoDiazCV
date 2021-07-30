@@ -43,13 +43,6 @@ a > h2 {
 
 /* responsive */
 
-@media (max-width: 1240px) {
-
-    body {
-        padding: 1rem;
-    }
-}
-
 @media (max-width: 414px) {
 
     body {
